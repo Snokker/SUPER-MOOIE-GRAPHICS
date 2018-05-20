@@ -1,0 +1,9 @@
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\bin\Debug\template.exe.config
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\bin\Debug\template.exe
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\bin\Debug\template.pdb
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\bin\Debug\OpenTK.dll
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\bin\Debug\OpenTK.dll.config
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\obj\Debug\template.csproj.CoreCompileInputs.cache
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\obj\Debug\template.exe
+C:\Users\NeanderG\Desktop\zeergeheimmapje\GRAPHICS\template_INFOGR2018\obj\Debug\template.pdb
